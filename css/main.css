@@ -1,5 +1,11 @@
 html, body
-{color: rgb(4, 12, 120); font: 12px;font-family:"Open Sans", sans-serif;}
+{   
+    color: rgb(4, 12, 120); 
+    font: 12px;
+    font-family:"Open Sans", sans-serif;
+}
+
+
 h1{
     font-size: 70px;
     text-align: center;
