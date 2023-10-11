@@ -4,8 +4,6 @@ html, body
     font: 12px;
     font-family:"Open Sans", sans-serif;
 }
-
-
 h1{
     font-size: 70px;
     text-align: center;
@@ -13,11 +11,14 @@ h1{
 h2,p{
     text-align: center;
 }
+.main-box{
+    text-align: left;
+}
 img{
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-.image-text{
+.image{
     text-align: center;
 }
