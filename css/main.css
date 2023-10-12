@@ -10,10 +10,17 @@ html, body
     margin-right: 120px;
     padding: auto;
 }
+.list{
+    text-align: left;
+}
+.paragraph{
+    text-align: left;
+    width: 1500px;
+}
 .rectangle{
     background-color: yellow;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 120px;
+    margin-right: 120px;
     padding: auto;
 }
 h1{
