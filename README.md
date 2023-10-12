@@ -1,1 +1,57 @@
 # ZehraA02.github.io
+<!Doctype html>
+<html>
+    <header>
+        <nav>
+            <a class="nav-text" href="../UniversalDesign.html">Home</a>
+            <a class="nav-text" href="../secondary/DATA1200.html">DATA1200</a>
+        </nav>
+    </header>
+    <head>
+        <title>Universal Design</title>
+        <meta charset="UTF-8"> 
+        <link rel="stylesheet" href="css/main.css">
+        <html lang="en">
+    </head>
+    <body>
+    <main class="container">
+        <h1>
+            Universal Design
+        </h1>
+        <h2>
+            What is universal design?
+        </h2>
+        <article class="image">
+        <p>Per Olafsen Jensen - 10/10/2023, 2:34 pm</p>
+            <div class="image-text">
+            <div><img src="https://knowledgeone.ca/wp-content/uploads/2018/07/universal-design.jpg">Universal design is for everyone./KnowledgeOne</div>
+        <article>
+            <br/>
+            Universal design is an approach to design that aims to create products, environments, and systems that are accessible, usable, 
+            and inclusive for people of all abilities, ages, and backgrounds. The goal of universal design is to make the designed elements 
+            as functional and welcoming as possible for the widest range of users, without the need for specialized adaptations or accommodations. <br/>
+            <br/>
+            Universal design principles are often applied in various fields, including architecture, product design, digital technology, 
+            transportation, and more. For example, in the context of technology and web design, universal design principles can lead to the 
+            development of websites and applications that are accessible to people with disabilities, ensuring equal access to information 
+            and services for all users. By adopting universal design principles, designers and developers aim to create a more inclusive and 
+            equitable world where everyone can participate fully in society and enjoy equal opportunities and access to various services and products. 
+            Some examples of universally designed products are smartphones, automated doors and e-books.         
+        </article>
+        <h2>
+            <em>Three</em> ways smartphones comply with principles in universal design
+        </h2>
+        <article class="main-box">
+            <ul>
+                    <li>Most smartphones have built-in screen readers and voice commandoes that makes it easier for blind people to use it. </li>
+                    <li>We have everything in one place, which makes it easier for us to search for everything using the smartphone. One size fit one solution within a system for everyone.</li>
+                    <li>Map services can assist individuals with impaired orientation abilities in finding their way and navigating unfamiliar surroundings.</li>
+            </ul>
+        </article>
+        <p>
+            <a href="secondary/DATA1200.html"
+            title="Second page">Go to learning outcomes.</a>
+        </p>
+    </main>
+    </body>
+</html>
