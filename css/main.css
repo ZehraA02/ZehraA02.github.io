@@ -34,3 +34,8 @@ img{
 .image{
     text-align: center;
 }
+.footer{
+    background-color: beige;
+    margin-right: 100px;
+    margin-left: 100px;
+}
