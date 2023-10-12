@@ -5,7 +5,7 @@ html, body
     font-family:"Open Sans", sans-serif;
 }
 .container{
-    background-color: rgb(227, 227, 227);
+    background-color:rgba(227, 227, 227);
     margin-left: 120px;
     margin-right: 120px;
     padding: auto;
@@ -15,7 +15,6 @@ html, body
 }
 .paragraph{
     text-align: left;
-    width: 1500px;
 }
 .rectangle{
     background-color: yellow;
