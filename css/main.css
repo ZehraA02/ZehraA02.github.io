@@ -31,8 +31,14 @@ img{
     margin-left: auto;
     margin-right: auto;
 }
-.image-text{
+.image{
     text-align: center;
+}
+.accessibility{
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+    width: 100px;
 }
 .footer{
     background-color: beige;
