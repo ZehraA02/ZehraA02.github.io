@@ -8,15 +8,12 @@ html, body
     background-color: rgb(227, 227, 227);
     margin-left: 120px;
     margin-right: 120px;
-    margin-bottom: auto;
     padding: auto;
-    
 }
 .rectangle{
     background-color: yellow;
     margin-left: 100px;
     margin-right: 100px;
-    margin-bottom: auto;
     padding: auto;
 }
 h1{
